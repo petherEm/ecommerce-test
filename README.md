@@ -1,6 +1,6 @@
 ## eCommerce website (React + styled components)
 test deployment - https://pmshop.netlify.app/
-All credits to LamaDev tutorials - https://www.youtube.com/c/LamaDev - this has been a great project enhancing my webDev skill.
+All credits to LamaDev tutorials - https://www.youtube.com/c/LamaDev - this has been a great project enhancing my webDev skills.
 
 
 
