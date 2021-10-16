@@ -1,3 +1,10 @@
+## eCommerce website (React + styled components)
+test deployment - https://pmshop.netlify.app/
+All credits to LamaDev tutorials - https://www.youtube.com/c/LamaDev - this has been a great project enhancing my webDev skill.
+
+
+
+---------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
